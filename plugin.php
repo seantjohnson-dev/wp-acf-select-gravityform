@@ -8,7 +8,7 @@ Version: 0.1.0
 Author: Moxie
 Author URI: http://getmoxied.net/
 */
-$path = get_template_directory();
+$path = plugin_dir_path( __FILE__ );
 $autoload = $path . 'vendor/autoload.php';
 
 if ( file_exists( $autoload ) ) {
