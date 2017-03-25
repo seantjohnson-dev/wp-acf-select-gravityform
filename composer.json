@@ -1,17 +1,17 @@
 {
-  "name": "moxie-lean/acf-gravity-forms-select",
+  "name": "seantjohnson-dev/acf-gravity-forms-select",
   "description": "Component for ACF to allow selection the ID of the gravity forms",
   "keywords": [ "acf", "wordpress", "gravity forms"],
-  "homepage": "https://github.com/moxienyc/skaled.com-back-end/issues",
+  "homepage": "https://github.com/seantjohnson-dev/wp-acf-select-gravityform",
   "type": "wordpress-plugin",
   "license": "MIT",
   "authors": [
     {
-      "name": "Crisoforo Gaspar",
-      "email": "developer@getmoxied.net"
+      "name": "Sean Johnson",
+      "email": "seantjohnson.development@gmail.com"
     }
   ],
-"require": {
+  "require": {
     "php": ">=5.4",
     "composer/installers": "^1.0"
   },
