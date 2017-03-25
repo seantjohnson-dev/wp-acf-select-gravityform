@@ -36,5 +36,10 @@
     "ci": [
       "phpcs src/*.php *.php"
     ]
+  },
+  "extra": {
+    "branch-alias": {
+        "dev-master": "0.1.3-dev"
+    }
   }
 }
