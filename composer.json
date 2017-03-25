@@ -1,6 +1,6 @@
 {
   "name": "seantjohnson-dev/acf-gravity-forms-select",
-  "description": "Component for ACF to allow selection the ID of the gravity forms",
+  "description": "A simple ACF select field that auto populates active Gravity Forms",
   "keywords": [ "acf", "wordpress", "gravity forms"],
   "homepage": "https://github.com/seantjohnson-dev/wp-acf-select-gravityform",
   "type": "wordpress-plugin",
