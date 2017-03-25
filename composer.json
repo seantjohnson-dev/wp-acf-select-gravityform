@@ -1,14 +1,14 @@
 {
-  "name": "seantjohnson-dev/acf-gravity-forms-select",
-  "description": "A simple ACF select field that auto populates active Gravity Forms",
+  "name": "moxie-lean/acf-gravity-forms-select",
+  "description": "Component for ACF to allow selection the ID of the gravity forms",
   "keywords": [ "acf", "wordpress", "gravity forms"],
   "homepage": "https://github.com/seantjohnson-dev/wp-acf-select-gravityform",
   "type": "wordpress-plugin",
   "license": "MIT",
   "authors": [
     {
-      "name": "Sean Johnson",
-      "email": "seantjohnson.development@gmail.com"
+      "name": "Crisoforo Gaspar",
+      "email": "developer@getmoxied.net"
     }
   ],
   "require": {
@@ -36,10 +36,5 @@
     "ci": [
       "phpcs src/*.php *.php"
     ]
-  },
-  "extra": {
-    "branch-alias": {
-        "dev-master": "0.1.3-dev"
-    }
   }
 }
